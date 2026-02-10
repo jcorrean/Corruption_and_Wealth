@@ -1,4 +1,4 @@
 This GitHub repository provides the supplemental material for the manuscript titled: "*Corruption and Wealth: Unveiling a national prosperity syndrome in Europe.*" The manuscript was first published as a preprint in
 arXiv. Get the full text by clicking here ->
-[![Static Badge](https://img.shields.io/badge/Corruption_and-Wealth-red?style=flat-square&logo=arxiv&logoColor=red&link=https%3A%2F%2Farxiv.org%2Fabs%2F1604.00283)](https://arxiv.org/abs/1604.00283)
+[![Static Badge](https://img.shields.io/badge/Corruption_and-Wealth-%23b31b1b?style=flat-square&logo=arxiv&logoColor=b31b1b&labelColor=%236b6459&link=https%3A%2F%2Farxiv.org%2Fabs%2F1604.00283)](https://arxiv.org/abs/1604.00283)
 
